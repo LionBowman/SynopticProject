@@ -44,8 +44,8 @@
         "type": "image/png"
       }
     ],
-    "id": "/index.html",
-    "start_url": "/index.html",
+    "id": "/SynopticProject/index.html",
+    "start_url": "/SynopticProject/index.html",
     "scope": ".",
     "display": "fullscreen",
     "orientation": "landscape",
